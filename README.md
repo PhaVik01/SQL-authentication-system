@@ -1,13 +1,13 @@
 
-# 🔐 Authentication System – Harrys Bilar
+# 🔐 Authentication System 
 
-This project is a secure user authentication system designed for the fictional car dealership "Hederlige Harrys Bilar". It includes a SQL Server database schema, ER-diagram, and documentation for handling user login, authentication, logging, and security.
+This project is a secure user authentication system designed for a secure user login and authentication system. It includes a SQL Server database schema, ER-diagram, and documentation for handling user login, authentication, logging, and security.
 
 ---
 
 ## 🧾 Project Overview
 
-The goal of this project was to design and implement a secure, scalable authentication system for a fictional application used by **Hederlige Harrys Bilar**. The database was created to manage user login, password security, account verification, and activity logging.
+The goal of this project was to design and implement a secure, scalable authentication system for a fictional application used by an internal application. The database was created to manage user login, password security, account verification, and activity logging.
 
 This system handles:
 
@@ -111,16 +111,6 @@ Validates token and updates password with a new hash and salt.
 
 ---
 
-## 🧪 Performance & Optimization
-
-- Added **non-clustered indexes** on:
-  - `Email` (Users)
-  - `IPAddress` (Log)
-- Execution time improved from 106 ms to 92 ms
-- Physical reads dropped to 0 on both tables
-
----
-
 ## 📈 Future Improvements
 
 - Add email verification step via stored procedure
@@ -135,12 +125,5 @@ Available in `diagrams/database-model.dawio` (Draw.io format)
 
 ---
 
-## 📫 Contact
-
-- 👩‍💻 Author: Phatsorn Vik  
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-
----
 
 Thank you for checking out this project!
