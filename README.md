@@ -109,7 +109,8 @@ Validates token and updates password with a new hash and salt.
 
 ## 🖼 ER Diagram
 
-Available in `diagrams/database-model.dawio` (Draw.io format)
+The entity-relationship diagram is available in Draw.io format here:  
+[▶️ View Diagram](diagrams/databas-model.png)
 
 ---
 
