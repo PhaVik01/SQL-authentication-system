@@ -110,7 +110,7 @@ Validates token and updates password with a new hash and salt.
 ## 🖼 ER Diagram
 
 The entity-relationship diagram is available here:  
-![ER Diagram](diagrams/databas-model.png)
+![ER Diagram](diagrams/database-model.png)
 
 ---
 
