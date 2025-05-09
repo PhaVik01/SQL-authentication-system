@@ -45,18 +45,6 @@ The project is built entirely in **SQL Server** and includes:
   - Security strategy
   - Future improvement ideas
 
-## 📁 Project Structure
-
-```
-authentication-system/
-├── sql/
-│   └── authentication-schema.sql
-├── diagrams/
-│   └── database-model.dawio
-├── docs/
-│   └── documentation.md
-```
-
 ---
 
 ## 🧩 Database Overview
